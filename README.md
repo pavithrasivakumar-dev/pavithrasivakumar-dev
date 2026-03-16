@@ -1,7 +1,8 @@
 # Hi, I'm Pavithra 👋
 
 🎓 **B.Tech. Information Technology Student** — Rajalakshmi Engineering College (Class of 2027)
-☁️ **AWS Certified Cloud Practitioner**
+☁️ **AWS Certified Cloud Practitioner**  
+
 🚀 **Aspiring Cloud Engineer exploring Cloud + AI applications**
 
 I’m passionate about building cloud-powered applications and learning how scalable systems work. I enjoy working with cloud services, APIs, and backend logic while exploring how AI can be integrated into real-world solutions.
@@ -27,8 +28,7 @@ HTML • CSS • JavaScript
 **Cloud & Tools**
 AWS (Certified Cloud Practitioner)
 Git • GitHub
-VS Code 
-Figma 
+VS Code • Figma 
 
 **Areas of Interest**
 Cloud Computing • Backend Development • Cloud + AI Applications
