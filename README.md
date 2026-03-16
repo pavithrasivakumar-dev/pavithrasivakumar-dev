@@ -27,7 +27,7 @@ Python • C • Java
 HTML • CSS • JavaScript
 
 **Cloud & Tools**
-AWS (Certified Cloud Practitioner)
+AWS (Certified Cloud Practitioner) •
 Git • GitHub •
 VS Code • Figma 
 
