@@ -28,7 +28,7 @@ HTML • CSS • JavaScript
 
 **Cloud & Tools**
 AWS (Certified Cloud Practitioner)
-Git • GitHub
+Git • GitHub •
 VS Code • Figma 
 
 **Areas of Interest**
