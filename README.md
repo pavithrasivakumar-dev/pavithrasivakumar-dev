@@ -1,6 +1,7 @@
 # Hi, I'm Pavithra 👋
 
 🎓 **B.Tech. Information Technology Student** — Rajalakshmi Engineering College (Class of 2027)
+
 ☁️ **AWS Certified Cloud Practitioner**  
 
 🚀 **Aspiring Cloud Engineer exploring Cloud + AI applications**
