@@ -4,7 +4,7 @@
 
 ☁️ **AWS Certified Cloud Practitioner**  
 
-🚀 **Aspiring Cloud Engineer exploring Cloud + AI applications**
+🚀 **Aspiring Cloud & DevOps Engineer exploring Cloud + AI applications**
 
 I’m passionate about building cloud-powered applications and learning how scalable systems work. I enjoy working with cloud services, APIs, and backend logic while exploring how AI can be integrated into real-world solutions.
 
@@ -12,34 +12,31 @@ I’m passionate about building cloud-powered applications and learning how scal
 
 ## 🌱 Currently Exploring :
 
-* Cloud application development using AWS
-* Combining Cloud and AI for intelligent applications
-* CS Fundamentals
+* Linux and Bash for cloud environments
+* Docker and Cloud Infrastructure
+* AWS and DevOps practices
+* AI applications in cloud operations
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages**
-Python • C • Java 
-
-**Web Development**
-HTML • CSS • JavaScript
+Python , SQL 
 
 **Cloud & Tools**
-AWS (Certified Cloud Practitioner) •
 Git • GitHub •
-VS Code • Figma 
+VS Code • Postman
 
 **Areas of Interest**
-Cloud Computing • Backend Development • Cloud + AI Applications
+Cloud Computing • DevOps • Cloud Infrastructure • AI for Cloud Operations
 
 ---
 
 ## 📂 Featured Project
 
 🔗 **Personalized Phobia Audio Blocker**
-A browser extension that monitors OTT subtitles in real-time and mutes phobia-triggering audio segments, so you can stream without fear.
+A Chromium-based browser extension that monitors SDH subtitles in real-time and automatically mutes phobia-triggering audio segments.
 
 GitHub Repository:
 https://github.com/pavithrasivakumar-dev/phobia
@@ -53,4 +50,4 @@ https://github.com/pavithrasivakumar-dev/phobia
 
 ---
 
-⭐* Always open to learning opportunities, collaborations, and internships in Cloud and Software Engineering.*
+⭐* Always learning, building, and exploring better ways to work with cloud and infrastructure.*
